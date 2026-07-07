@@ -15,5 +15,6 @@ Started working on schematics in KiCAD, reviewing datasheets for the XIAO RP2040
 # PCB routing 
 Connect all the wires  
 ## Time taken- 25 mins 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/150f8d73-ab84-40eb-8bee-f9186eb29aca" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9cb0eb0-1667-4298-a0e2-290e10a0082d" />
+
 
