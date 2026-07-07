@@ -1,4 +1,4 @@
-# KiCAD Schematic Design
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b1b979b5-3805-43b7-85c8-04cf8721e9f3" /># KiCAD Schematic Design
 
 ## Overview
 Started working on schematics in KiCAD, reviewing datasheets for the XIAO RP2040 and IIC 0.91 inch OLED display.
@@ -39,8 +39,9 @@ while make the assemble file i realised a small mistake in the PCB and the top c
 ### improvements
 # time take- 30mins 
 so i had to fix the schematic
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/52072a30-049c-4783-95a6-519e8c9131d9" />
-AND also the PCB and
+<img width="818" height="540" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/cb5231c1-195f-44b0-9097-13fa5e8bf25e" />
+
+AND also the PCB and  
 for the rest part of case i decided to remove the top part to give it an open DIY look and also fun to play around with. 
 
 
