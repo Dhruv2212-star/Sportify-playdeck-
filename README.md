@@ -18,13 +18,9 @@ IMPORTANT- the rectangle property should be set to "edge.cuts".
 ## Bottom case 
 <img width="1366" height="721" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/f0c66cac-f81e-4409-ae28-defb631734a3" />
 
-## top case 
-<img width="1366" height="725" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/316544d2-eaa7-4cd3-bd61-6c26277e8834" />
-
-
-
 # you can download all the file from the 'productions' folder 
 this way you would escape the trouble of recreating the PCB the case for it and you can build it yourself!! 
+now once you have 
 
  
 
