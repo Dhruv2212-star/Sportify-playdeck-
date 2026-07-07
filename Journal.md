@@ -9,3 +9,6 @@ Started working on schematics in KiCAD, reviewing datasheets for the XIAO RP2040
 
 ## Screenshots
 ![Schematic Design](https://github.com/user-attachments/assets/4eba0008-82d9-4884-ac36-f8b0de78a6c6)
+### The data sheet refered to- 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b75189cd-4bde-4cdf-9b92-3610001a05e4" />
+
