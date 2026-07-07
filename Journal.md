@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b1b979b5-3805-43b7-85c8-04cf8721e9f3" /># KiCAD Schematic Design
+# KiCAD Schematic Design
 
 ## Overview
 Started working on schematics in KiCAD, reviewing datasheets for the XIAO RP2040 and IIC 0.91 inch OLED display.
