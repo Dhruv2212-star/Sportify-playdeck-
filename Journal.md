@@ -17,4 +17,18 @@ Connect all the wires
 ## Time taken- 25 mins 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9cb0eb0-1667-4298-a0e2-290e10a0082d" />
 
+# Case making with fusion 
+started with taking the dimentions of the PCB and finalised the sketches and extruded it to make the case 
+## Bottom case 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dc478d8e-b9ee-4a58-9b26-da707a926deb" />
+finished the bottom case in 30mins avg 
+
+## top case 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/600a97e5-bcc8-422a-8bab-f5c5176fae98" />
+finished the top part of the case in average of 50 mins because of the no. of dimetions i had to keep in mind of, i messed up quite a lot of time and i had to take dimensions again and again so it consumed a lot of my time 
+
+## started making the assembly file 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/16e6396f-46b5-4be0-9a49-34ab1fc93393" />
+
+
 
