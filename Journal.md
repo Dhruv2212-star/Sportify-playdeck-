@@ -12,3 +12,7 @@ Started working on schematics in KiCAD, reviewing datasheets for the XIAO RP2040
 ### The data sheet refered to- 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b75189cd-4bde-4cdf-9b92-3610001a05e4" />
 
+# PCB routing 
+Connect all the wires  
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/150f8d73-ab84-40eb-8bee-f9186eb29aca" />
+
