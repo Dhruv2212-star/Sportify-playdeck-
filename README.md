@@ -22,6 +22,10 @@ IMPORTANT- the rectangle property should be set to "edge.cuts".
 ## top case  
 <img width="1366" height="717" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/fede9414-6287-46aa-bb9d-e459a5e0f079" />
 
+# ASSEMBELED FILE
+this is an model of what your project will look life later 
+<img width="1366" height="713" alt="Screenshot (234)" src="https://github.com/user-attachments/assets/1f5ccfd7-cdb1-468d-a018-39b5d2275be3" />
+
 
 # you can download all the file from the 'productions' folder 
 this way you would escape the trouble of recreating the PCB the case for it and you can build it yourself!!  
