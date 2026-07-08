@@ -20,7 +20,8 @@ IMPORTANT- the rectangle property should be set to "edge.cuts".
 ## Bottom case 
 <img width="1366" height="721" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/f0c66cac-f81e-4409-ae28-defb631734a3" />
 ## top case  
-<img width="1366" height="717" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/fede9414-6287-46aa-bb9d-e459a5e0f079" />
+<img width="1366" height="725" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/f6863aa3-59bc-4278-bde5-783a664f1fcb" />
+
 
 # ASSEMBELED FILE
 this is an model of what your project will look life later 
