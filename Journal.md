@@ -36,13 +36,18 @@ while make the assemble file i realised a small mistake in the PCB and the top c
 1. the pcb header was wrongly rotated
 2. the top case had minor dimention errors
 
-### improvements
-# time take- 30mins 
+# improvements
+## Schematic (time take- 30mins) 
 so i had to fix the schematic
 <img width="818" height="540" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/cb5231c1-195f-44b0-9097-13fa5e8bf25e" />
 
-AND also the PCB and  
-for the rest part of case i decided to remove the top part to give it an open DIY look and also fun to play around with. 
+## Redesigned the Top case and assembly file ( time- 1.2hrs)
+the dimetions i took in the Kicad were slightly off and so i had to take the calculations from the assembly file while constantly taking refrence.  
+<img width="1366" height="725" alt="Screenshot (239)" src="https://github.com/user-attachments/assets/4be725a0-466d-4632-935e-f67867ef429f" />
+
+also remade the assembly file 
+<img width="1366" height="725" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/c42a6b02-b471-42a5-a8f9-87cf90117249" />
+
 
 
 
