@@ -37,7 +37,7 @@ while make the assemble file i realised a small mistake in the PCB and the top c
 2. the top case had minor dimention errors
 
 # improvements
-## Schematic (time take- 30mins) 
+## Schematic & PCB (time take- 15mins) 
 so i had to fix the schematic
 <img width="818" height="540" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/cb5231c1-195f-44b0-9097-13fa5e8bf25e" />
 
