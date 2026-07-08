@@ -22,8 +22,13 @@ IMPORTANT- the rectangle property should be set to "edge.cuts".
 
 
 # you can download all the file from the 'productions' folder 
-this way you would escape the trouble of recreating the PCB the case for it and you can build it yourself!! 
-now once you have 
+this way you would escape the trouble of recreating the PCB the case for it and you can build it yourself!!  
+Now once you have the files ready, Order the PCB and 3D print the case files  
+solder all the components in their places   
+hot glue the pcb in the case for extra strength 
+
+# Firmware flashing 
+
 
  
 
