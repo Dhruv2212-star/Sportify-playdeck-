@@ -1,3 +1,4 @@
+
 # The first step is making the schematic
 
 ## The main components required for this build are 
@@ -18,7 +19,8 @@ IMPORTANT- the rectangle property should be set to "edge.cuts".
 
 ## Bottom case 
 <img width="1366" height="721" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/f0c66cac-f81e-4409-ae28-defb631734a3" />
-## top case 
+## top case  
+<img width="1366" height="717" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/fede9414-6287-46aa-bb9d-e459a5e0f079" />
 
 
 # you can download all the file from the 'productions' folder 
