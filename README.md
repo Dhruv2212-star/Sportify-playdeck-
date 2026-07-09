@@ -1,5 +1,4 @@
-
-# The first step is making the schematic
+# Description- this project was made for controling any media sounds via the spotify playdeck without reopening the application on your desktop  
 
 ## The main components required for this build are 
 1. mechenical keyboard switches X4 (sw_push for schematic)x4
@@ -58,3 +57,5 @@ lib/
 10. save and close the window and boot it  
 # That's it! 
 ## open spotify and now you can control the pause, play, next, previous funtions without opening your spotify desktop application 
+
+Ai ussage- ai was used to select the correct liberaries for the code and also trouble shooting the schematic. that's it
