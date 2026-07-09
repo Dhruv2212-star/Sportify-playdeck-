@@ -45,7 +45,9 @@ hot glue the pcb in the case for extra strength
 6. delete any file named 'code.py' in the CIRCUITPY drive if any  
 7. now copy and past these files from the firmware folder  
 8. "boot.py", "code.py", entire "lib" folder  
-9. yout board should look like this  
+9. yout board should look like this
+
+
 CIRCUITPY/  
 
 boot.py  
