@@ -36,6 +36,23 @@ hot glue the pcb in the case for extra strength
 
 # Firmware flashing 
 
+## instal circuitpython   
+1. connect your microcontroler to your PC   
+2. new drive called RPI-RP2 will appear    
+3. paste "adafruit-circuitpython-seeeduino_xiao_rp2040-en_US-10.2.1" file from the 'Firmware' folder given    
+4. The board automatically restarts  
+5. the drive is now named 'CIRCUITPY'  
+6. delete any file named 'code.py' in the CIRCUITPY drive if any  
+7. now copy and past these files from the firmware folder  
+8. "boot.py", "code.py", entire "lib" folder  
+9. yout board should look like this  
+CIRCUITPY/  
 
- 
+boot.py  
 
+code.py  
+
+lib/  
+10. save and close the window and boot it  
+# That's it! 
+## open spotify and now you can control the pause, play, next, previous funtions without opening your spotify desktop application 
