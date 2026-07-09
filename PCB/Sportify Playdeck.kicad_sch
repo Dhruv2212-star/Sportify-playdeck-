@@ -785,14 +785,15 @@
 		(color 0 0 0 0)
 		(uuid "ff2de3a3-f363-4963-85d5-6223c40366e8")
 	)
-	(bus_entry
-		(at 176.53 77.47)
-		(size 2.54 2.54)
+	(wire
+		(pts
+			(xy 186.69 60.96) (xy 177.8 60.96)
+		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f776d3df-cd0f-41d7-8999-2fa1c2bed6fb")
+		(uuid "0710833c-edd3-491f-a33d-d9784512d628")
 	)
 	(wire
 		(pts
@@ -856,7 +857,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 53.34) (xy 166.37 53.34)
+			(xy 166.37 53.34) (xy 186.69 53.34)
 		)
 		(stroke
 			(width 0)
@@ -876,6 +877,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 58.42) (xy 177.8 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f14b7a5-1210-4d8d-93c1-f88bf16e4eca")
+	)
+	(wire
+		(pts
 			(xy 109.22 96.52) (xy 109.22 101.6)
 		)
 		(stroke
@@ -883,6 +894,16 @@
 			(type default)
 		)
 		(uuid "409efc37-8f20-488f-bf0f-eee9e560dada")
+	)
+	(wire
+		(pts
+			(xy 186.69 53.34) (xy 186.69 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "427b2183-555f-43f3-87e5-c4a822057d5e")
 	)
 	(wire
 		(pts
@@ -1006,6 +1027,16 @@
 	)
 	(wire
 		(pts
+			(xy 184.15 82.55) (xy 184.15 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72d4e5e5-8dd4-4544-8435-a2ef98d1fa6c")
+	)
+	(wire
+		(pts
 			(xy 120.65 76.2) (xy 97.79 76.2)
 		)
 		(stroke
@@ -1013,16 +1044,6 @@
 			(type default)
 		)
 		(uuid "7a1cc706-1858-452d-b705-c7fd82d7a57f")
-	)
-	(wire
-		(pts
-			(xy 184.15 82.55) (xy 184.15 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e775d3f-6c9a-4fb9-9d20-b36647319f16")
 	)
 	(wire
 		(pts
@@ -1086,16 +1107,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 58.42) (xy 181.61 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0a2cd42-2f0c-4229-a307-a72a7f10be7a")
-	)
-	(wire
-		(pts
 			(xy 116.84 77.47) (xy 95.25 77.47)
 		)
 		(stroke
@@ -1113,16 +1124,6 @@
 			(type default)
 		)
 		(uuid "d56285b1-15a8-4838-a2d6-9c0a32bf0952")
-	)
-	(wire
-		(pts
-			(xy 177.8 58.42) (xy 181.61 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8419e33-f55e-4860-826c-46ddbabab53b")
 	)
 	(wire
 		(pts
@@ -1223,16 +1224,6 @@
 			(type default)
 		)
 		(uuid "f90626fc-2ab2-45bc-947a-370d95ab2579")
-	)
-	(wire
-		(pts
-			(xy 177.8 60.96) (xy 184.15 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fad50ad8-3547-4dca-ab8b-5cff1efba652")
 	)
 	(wire
 		(pts
@@ -1634,6 +1625,7 @@
 		)
 		(property "Value" "Conn_01x04_Pin"
 			(at 173.355 55.88 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
