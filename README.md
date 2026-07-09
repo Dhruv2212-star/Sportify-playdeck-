@@ -32,13 +32,13 @@ this way you would escape the trouble of recreating the PCB the case for it and 
 Now once you have the files ready, Order the PCB and 3D print the case files  
 solder all the components in their places   
 hot glue the pcb in the case for extra strength  
-# schematic building 
+# Schematic building 
 1. Add these 3 components first-
 -MODULE-SEEDUINO-XIAO
 -sw_push
 -PinHeader_1x04_P2.54mm_Vertical
 2. Connect each Sw_push to their own gpio pin, i connected them to D0, D1, D2, D3
-3. connect the other part of the Sw_push to Gnd port on the Xiao RP2040
+3. connect the other part of the Sw_push to Gnd port on the Xiao RP2040  
  **That's it for your switches! now for the LCD**  
 4. now on 'PinHeader_1x04_P2.54mm_Vertical' connect pin 1 to GND on the XIAO RP2040, pin2- 3.3v, pin3- D5(SCL), pin4- D4(SDA)
 **That's your schematic completed!**  
