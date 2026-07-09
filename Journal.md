@@ -48,6 +48,8 @@ the dimetions i took in the Kicad were slightly off and so i had to take the cal
 **Remade the assembly file** 
 <img width="1366" height="725" alt="Screenshot (238)" src="https://github.com/user-attachments/assets/c42a6b02-b471-42a5-a8f9-87cf90117249" />
 
+# Firmware | time- 1 hour 
+## did research on funtions i needed and the coorect the libs i needed for that and also had to rewrite the code several times doe to errors and misfuntions but in the end the final 'code.py' file was ready 
 
 
 
