@@ -40,8 +40,8 @@ hot glue the pcb in the case for extra strength
 2. Connect each Sw_push to their own gpio pin, i connected them to D0, D1, D2, D3
 3. connect the other part of the Sw_push to Gnd port on the Xiao RP2040
  **That's it for your switches! now for the LCD**  
-4.now on 'PinHeader_1x04_P2.54mm_Vertical' connect pin 1 to GND on the XIAO RP2040, pin2- 3.3v, pin3- D5(SCL), pin4- D4(SDA)
-**That's your schematic completed!**
+4. now on 'PinHeader_1x04_P2.54mm_Vertical' connect pin 1 to GND on the XIAO RP2040, pin2- 3.3v, pin3- D5(SCL), pin4- D4(SDA)
+**That's your schematic completed!**  
 # PCB tracing
 1. select update to PCB
 2. select the footprints for each components
