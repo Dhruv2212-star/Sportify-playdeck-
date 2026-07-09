@@ -46,7 +46,7 @@ hot glue the pcb in the case for extra strength
 1. select update to PCB
 2. select the footprints for each components
 3. now click on one trace of the component's pad, this will show you where it supposed to be connected, draw the lines to that region
-4. now do this for all the pads present on the PCB and traces them on the PCB
+4. now do this for all the pads present on the PCB and traces them on the PCB  
    **Thats the PCB done!**
 # Case 
 ## Note down the dimesions from the PCB model and start with a simple sketch of a box with your dimentions and, then make the walls to fit the PCB inside then make the top case from the dimensions of the bottom case you just made and cut out the parts you need to from the top case 
